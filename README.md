@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kravtesterlisa
-- 👀 I’m interested in Automation testing 
+- 👀 I’m interested in Automation / API / Unit testing 
 - 🌱 I’m currently learning TS, JS 
 
 
