@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kravtesterlisa
+- 👋 Hi, I’m Lisa. In a nutshell:I'm QA who try to grow up => AQA =)
 - 👀 I’m interested in Automation / API / Unit testing 
-- 🌱 I’m currently learning TS, JS 
+- 🌱 I’m currently learning TS, JS, Jest, Mocha, Cypress
 
 
 <!---
